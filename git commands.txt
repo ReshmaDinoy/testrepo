@@ -3,3 +3,4 @@ git status
 git add -A
 git commit -m"message"
 git log (to display all the procedure done)
+git remote add <name> <link from git hub>
